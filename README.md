@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alekseyonok
 - 👀 I’m interested in performance testing.
-- 🌱 I’m continously learning JMeter and other tools.
+- 🌱 I’m continuously learning JMeter and other tools.
 - 💞️ I’m looking to collaborate on something new.
 - 📫 How to reach me elg@list.ru
 
